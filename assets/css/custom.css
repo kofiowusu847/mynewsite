@@ -1,0 +1,21 @@
+/* Add here all your css styles (customizations) */
+
+.nav{
+		background-color:#00007f;
+		color: white;
+		}
+		
+		.btn-u:hover{
+			background-color: #4099FF;	
+		}
+.customHead{
+	background-color:#00007f;
+	padding:15px;
+	color:#4099FF
+}
+p{
+	font-size:15px;
+}
+.btn-more{
+	background-color: #4099FF;
+}

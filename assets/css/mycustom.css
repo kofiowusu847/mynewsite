@@ -1,0 +1,28 @@
+.nav{
+		background-color: white;
+		
+	}
+	.fa{
+		color:#00007f;
+	}
+	btn-u{
+	background-color:#00007f;
+	}
+	#newstyle{
+	background-color:#00007f;
+	}
+	#newstyle:hover{
+		background-color:#4099FF;
+	}
+	
+	#myheaderID{
+	background-color: #00007f;
+	color: white;
+	padding: 15px;
+	}
+	hr{
+	color: #00007f;
+	}
+	#iconstyle{
+		color: white;
+	}
